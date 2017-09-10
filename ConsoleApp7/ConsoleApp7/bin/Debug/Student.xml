@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <Student number="1">
+    <name>Yernar</name>
+    <age>23</age>
+    <univercity>Step</univercity>
+    <group>SDP-162</group>
+  </Student>
+  <Student number="1">
+    <name>Yernar</name>
+    <age>23</age>
+    <univercity>Step</univercity>
+    <group>SDP-162</group>
+  </Student>
+</root>
